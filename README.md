@@ -88,6 +88,7 @@ on-brand posts on request without trial and error.
 
 - 🎨 **[photopea-as-code](https://github.com/mohamed-amine-ben-mallessa/photopea-as-code)** — the full Photopea-as-code toolkit + scripting reference.
 - 🖼️ **[bulk-mockups](https://github.com/mohamed-amine-ben-mallessa/bulk-mockups)** — 1 PSD → N mockups.
+- 🔄 **[batch-image-converter](https://github.com/mohamed-amine-ben-mallessa/batch-image-converter)** — convert/resize a whole folder, locally, no upload.
 
 ## Credits
 
