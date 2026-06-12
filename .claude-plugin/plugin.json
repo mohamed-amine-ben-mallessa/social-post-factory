@@ -1,0 +1,14 @@
+{
+  "name": "social-post-factory",
+  "version": "0.1.0",
+  "description": "Generate branded social posts (Instagram square, story, OG banner) in one command with Photopea — one theme, every format, free, no Photoshop.",
+  "author": "social-post-factory contributors",
+  "license": "MIT",
+  "keywords": ["social", "instagram", "story", "banner", "og-image", "branding", "photopea", "agent-skill"],
+  "mcpServers": {
+    "photopea": {
+      "command": "npx",
+      "args": ["-y", "photopea-mcp-server"]
+    }
+  }
+}
